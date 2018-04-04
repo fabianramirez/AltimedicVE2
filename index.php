@@ -1,6 +1,5 @@
 
-
-<!DOCTYPE html>
+ <!DOCTYPE HTML>
 <html lang="en">
   <head>
       <meta charset="utf-8">
@@ -54,6 +53,7 @@
       <br></br>
       <div class="row">
       <div class="col-lg-7">
+
 
       <main role="main" class="container">
         <h1 class="cover-heading">Altitud en Medicamentos</h1>
@@ -127,7 +127,7 @@
               <i class="twitter icon"></i>
             </button>
             </a>
-       	    
+
             <button class="ui red button" >+52 3338097927</button>
           </footer>
 
